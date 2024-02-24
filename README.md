@@ -6,13 +6,12 @@ Here are the projects I've worked on:
 <!--
 1. [Datathon FME 2023 - **Outfit Generator**](https://github.com/guimCC/Dathon2023-Mango):
 AI tool to generate outfits in line with a brand's core philosophy
-
-
-2. [**Fantasy Football**](https://github.com/polresi/Fantasy-Football):
-Algorithm that obtains the best football lineup based on a database of active players.
 -->
 
-1. [Datathon FME 2022 - **Chip Power Delivery**](https://github.com/NIU1668278/Qualcomm-Challenge-):
+1. [**Fantasy Football**](https://github.com/polresi/Fantasy-Football):
+Algorithm that obtains the best football lineup based on a database of active players. Primarily constructed using C++.
+
+2. [Datathon FME 2022 - **Chip Power Delivery**](https://github.com/NIU1668278/Qualcomm-Challenge-):
 Based on the solution to a variation of the Traveling Salesman Problem using both Genetic Algorithms and Simmulated Annealing
 
 3. [**Cinebus**](https://github.com/gerard-grau/cinebus):
