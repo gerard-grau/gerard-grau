@@ -11,7 +11,7 @@ AI tool to generate outfits in line with a brand's core philosophy
 * [ HackUPC 2024 - **Street Style Decoder** ](https://github.com/gerard-grau/HackUPC2024)
 An app that lets you take a picture of an outfit and obtain similar clothes. Made using image embedding and semantic segmentation.
 
-2* [**Fantasy Football**](https://github.com/polresi/Fantasy-Football):
+* [**Fantasy Football**](https://github.com/polresi/Fantasy-Football):
 Algorithm that obtains the best football lineup based on a database of active players. Primarily constructed using C++.
 
 * [Datathon FME 2022 - **Chip Power Delivery**](https://github.com/NIU1668278/Qualcomm-Challenge-):
