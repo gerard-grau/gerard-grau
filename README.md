@@ -8,7 +8,7 @@ Here are the projects I've worked on:
 AI tool to generate outfits in line with a brand's core philosophy
 -->
 
-* [ HackUPC 2024 - **Street Style Decoder** ](https://github.com/gerard-grau/HackUPC2024)
+* [ HackUPC 2024 - **Street Style Decoder** ](https://github.com/gerard-grau/HackUPC2024):
 An app that lets you take a picture of an outfit and obtain similar clothes. Made using image embedding and semantic segmentation.
 
 * [**Fantasy Football**](https://github.com/polresi/Fantasy-Football):
