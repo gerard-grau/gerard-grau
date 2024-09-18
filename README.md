@@ -14,7 +14,7 @@ An app that lets you take a picture of an outfit and obtain similar clothes. Mad
 * [**Fantasy Football**](https://github.com/polresi/Fantasy-Football) :
 Algorithm that obtains the best football lineup based on a database of active players. Primarily constructed using C++.
 
-* [Datathon FME 2022 - **Chip Power Delivery**](https://github.com/NIU1668278/Qualcomm-Challenge-) :
+* [Datathon FME 2022 - **Chip Power Delivery Optimization**](https://github.com/NIU1668278/Qualcomm-Challenge-) :
 Based on the solution to a variation of the Traveling Salesman Problem using both Genetic Algorithms and Simmulated Annealing
 
 * [**Cinebus**](https://github.com/gerard-grau/cinebus) :
