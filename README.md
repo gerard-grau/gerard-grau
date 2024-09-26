@@ -11,7 +11,7 @@ AI tool to generate outfits in line with a brand's core philosophy
 * [HackUPC 2024 - **Street Style Decoder**](https://github.com/gerard-grau/HackUPC2024) :
 An app that lets you take a picture of an outfit and obtain similar clothes. Made using image embedding and semantic segmentation.
 
-* [AA1 - **Song Poplarity Predictor**](https://github.com/gerard-grau/song-popularity-predictor) :
+* [**Song Poplarity Predictor**](https://github.com/gerard-grau/song-popularity-predictor) :
 A machine learning project predicting the popularity of Taylor Swift's songs using classical ML models such as linear models, decision trees, ensemble methods, and support vector machines.
 
 * [**Fantasy Football**](https://github.com/polresi/Fantasy-Football) :
