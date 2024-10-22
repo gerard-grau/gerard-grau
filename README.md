@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gerard Grau
+### Hi there, I'm Gerard Grau
 
 Microsoft intern pursuing a dual degree in Data Science & Engineering and in Mathematics at UPC Barcelona.
 
