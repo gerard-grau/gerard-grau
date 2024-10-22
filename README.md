@@ -14,7 +14,7 @@ An app that lets you take a picture of an outfit and obtain similar clothes. Mad
 * [**Song Poplarity Predictor**](https://github.com/gerard-grau/song-popularity-predictor) :
 A machine learning project predicting the popularity of Taylor Swift's songs using classical ML models such as linear models, decision trees, ensemble methods, and support vector machines.
 
-* [2024 France Tech Arena - **LightChaser**](https://github.com/gerard-grau/LightChaser_2024-France-Tech-Arena)
+* [2024 France Tech Arena - **LightChaser**](https://github.com/gerard-grau/LightChaser_2024-France-Tech-Arena) :
 Our solution using a modified Dijkstra's algorithm to replan service paths after fiber failures. We optimized wavelength allocation, resolved resource conflicts, and maximized service continuity
 
 * [**Fantasy Football**](https://github.com/polresi/Fantasy-Football) :
