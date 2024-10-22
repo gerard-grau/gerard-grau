@@ -1,6 +1,6 @@
-### Hi there, I'm Gerard Grau
+### Hi there 👋 I'm Gerard Grau
 
-I'm a student in Universitat Politècnica de Catalunya, in both Data Science & Engineering, and Mathematics.
+Microsoft intern pursuing a dual degree in Data Science & Engineering and in Mathematics at UPC Barcelona.
 
 Here are the projects I've worked on:
 <!--
@@ -13,6 +13,9 @@ An app that lets you take a picture of an outfit and obtain similar clothes. Mad
 
 * [**Song Poplarity Predictor**](https://github.com/gerard-grau/song-popularity-predictor) :
 A machine learning project predicting the popularity of Taylor Swift's songs using classical ML models such as linear models, decision trees, ensemble methods, and support vector machines.
+
+* [2024 France Tech Arena - **LightChaser**](https://github.com/gerard-grau/LightChaser_2024-France-Tech-Arena)
+Our solution using a modified Dijkstra's algorithm to replan service paths after fiber failures. We optimized wavelength allocation, resolved resource conflicts, and maximized service continuity
 
 * [**Fantasy Football**](https://github.com/polresi/Fantasy-Football) :
 Algorithm that obtains the best football lineup based on a database of active players. Primarily constructed using C++.
