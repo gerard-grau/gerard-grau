@@ -8,19 +8,19 @@ Here are the projects I've worked on:
 AI tool to generate outfits in line with a brand's core philosophy
 -->
 
-* [HackUPC 2024 - **Street Style Decoder**](https://github.com/gerard-grau/HackUPC2024) :
+* [_HackUPC 2024_ - **Street Style Decoder**](https://github.com/gerard-grau/HackUPC2024) :
 An app that lets you take a picture of an outfit and obtain similar clothes. Made using image embedding and semantic segmentation.
 
 * [**Song Poplarity Predictor**](https://github.com/gerard-grau/song-popularity-predictor) :
 A machine learning project predicting the popularity of Taylor Swift's songs using classical ML models such as linear models, decision trees, ensemble methods, and support vector machines.
 
-* [2024 France Tech Arena - **LightChaser**](https://github.com/gerard-grau/LightChaser_2024-France-Tech-Arena) :
+* [_2024 France Tech Arena_ - **LightChaser**](https://github.com/gerard-grau/LightChaser_2024-France-Tech-Arena) :
 Our solution using a modified Dijkstra's algorithm to replan service paths after fiber failures. We optimized wavelength allocation, resolved resource conflicts, and maximized service continuity
 
 * [**Fantasy Football**](https://github.com/polresi/Fantasy-Football) :
 Algorithm that obtains the best football lineup based on a database of active players. Primarily constructed using C++.
 
-* [Datathon FME 2022 - **Chip Power Delivery Optimization**](https://github.com/NIU1668278/Qualcomm-Challenge-) :
+* [_Datathon FME 2022_ - **Chip Power Delivery Optimization**](https://github.com/NIU1668278/Qualcomm-Challenge-) :
 Based on the solution to a variation of the Traveling Salesman Problem using both Genetic Algorithms and Simmulated Annealing
 
 * [**Cinebus**](https://github.com/gerard-grau/cinebus) :
