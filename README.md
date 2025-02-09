@@ -3,6 +3,10 @@
 Microsoft intern pursuing a dual degree in Data Science & Engineering and in Mathematics at UPC Barcelona.
 
 Here are the projects I've worked on:
+
+* [_Datathon FME 2024_ - **Design Decoder**](https://github.com/guimCC/DesignDecoder) :
+ Bringing the future of Desing - DatathonFME2024 Winning project 
+
 <!--
 1. [Datathon FME 2023 - **Outfit Generator**](https://github.com/guimCC/Dathon2023-Mango):
 AI tool to generate outfits in line with a brand's core philosophy
