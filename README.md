@@ -64,19 +64,22 @@ Microsoft intern pursuing a dual degree in Data Science & Engineering and Mathem
 
 ### Application Development
 
-* [**Fantasy Football**](https://github.com/polresi/Fantasy-Football)  
-  Algorithm that obtains the best football lineup based on a database of active players.
-  - **Technologies:** C++
-  - **Key Feature:** Optimization algorithm for player selection
+* [**Workgroup Manager**](https://github.com/gerard-grau/workgroup-manager)  
+  Cross-platform desktop application for coordinating student group projects and visualizing member availability.
+  - **Technologies:** Python, tkinter, MySQL
+  - **Key Features:** Visual calendar for group availability, user accounts with authentication, group administration tools
 
 * [**Cinebus**](https://github.com/gerard-grau/cinebus)  
-  Desktop app for finding movie listings with public transport routes to cinemas in Barcelona.
-  - **Technologies:** Java, Barcelona Public Transport API
-  - **Key Feature:** Integration with Barcelona's real bus network
+  Desktop app for finding movie listings with optimized public transport routes to cinemas in Barcelona.
+  - **Technologies:** Python, BeautifulSoup, NetworkX, tkinter
+  - **Key Features:** Real-time movie listings via web scraping, integrated bus network navigation, interactive city map visualization
+  - **Implementation:** Combined city road graph with public transport data to calculate optimal routes
 
-* [**Workgroup Manager**](https://github.com/gerard-grau/workgroup-manager)  
-  Desktop app for coordinating work groups with availability tracking and calendar visualization.
-  - **Technologies:** C++, Qt
+* [**Fantasy Football**](https://github.com/polresi/Fantasy-Football)  
+  Algorithm-driven application for creating optimal fantasy football teams based on player statistics.
+  - **Technologies:** C++11
+  - **Key Features:** Multiple team selection algorithms (exhaustive search, greedy, genetic algorithm)
+  - **Optimization:** Smart filtering of player database to reduce search space and improve performance
 
 ## 🌱 Currently Learning
 - Rust
