@@ -1,0 +1,20 @@
+name: Trigger About Page Update
+
+on:
+  push:
+    paths:
+      - 'README.md'
+    branches:
+      - master
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger repository_dispatch
+        run: |
+          curl -XPOST -H "Authorization: token ${{ secrets.PAT }}" \
+               -H "Accept: application/vnd.github.everest-preview+json" \
+               -H "Content-Type: application/json" \
+               https://api.github.com/repos/gerard-grau/gerard-grau.github.io/dispatches \
+               --data '{"event_type": "update_about"}'
