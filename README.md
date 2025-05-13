@@ -51,7 +51,7 @@ I'm a Microsoft intern pursuing a dual degree in Data Science & Engineering and 
   - **Models:** Linear models, decision trees, ensemble methods, support vector machines
   - **Process:** Data preprocessing, feature engineering, model training and evaluation
 
-* [**SIAM Student Programming Competition**](https://github.com/gerard-grau/siam-competition)  
+* [**SIAM Student Programming Competition**](https://github.com/gerard-grau/SIAGFME-code-quest-2023)  
   Automated Market Maker (AMM) simulation with evolutionary optimization for liquidity provision strategies.
   - **Technologies:** Python, NumPy, Pandas, Evolutionary Algorithms
   - **Key Features:** Conditional Value at Risk (CVaR) optimization, market dynamics simulation
